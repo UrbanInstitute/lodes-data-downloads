@@ -8,10 +8,6 @@ The script was written in Python 3, and was tested in Python 3.6.5. Please insta
 
 A log file will be automatically created in the working directory after running the script, recording the names of the datasets that are downloaded and possible error messages.
 
-<<<<<<< HEAD
 This script is released under the [MIT License](https://github.com/UrbanInstitute/lodes-data-downloads/blob/master/LICENSE). 
 
-If you have any questions, please contact Vivian Zheng (szheng@urban.org).
-=======
 If you have any questions, please contact Vivian Zheng (https://twitter.com/vivianzheng0120).
->>>>>>> 0f5ab52896a2d09bf431369872857673f16e3f3c
